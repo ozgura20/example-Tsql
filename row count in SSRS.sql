@@ -1,0 +1,1 @@
+=RunningValue(Fields!ogrNo.Value, CountDistinct, "OgrenciListesi")
